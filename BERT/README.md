@@ -20,6 +20,3 @@ f1 score RandomForest на тесте 0.808 Необходимые метрик�
 
 Pandas, matplotlib, numpy, scikit-learn, seaborn, NLTK, re, CatBoost, XGBoost, LightGBM
 
-## Статус проекта:
-
-Завершен частично, будет добавлена модель BERT.
